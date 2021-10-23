@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+[x] This is a new feature to move slides backwards :+1:
 Use the left arrow to go back!
